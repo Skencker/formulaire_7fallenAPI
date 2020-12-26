@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "formulaire"
+  "defaultProject": "formulaire",
+  "cli": {
+    "analytics": "d38c5726-a1e8-437a-b1c6-c6f6c0078fb5"
+  }
 }
